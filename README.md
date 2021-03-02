@@ -7,6 +7,4 @@
 * Uma lista
      + um *item em itálico*
      + outro **item em negrito**
-
-
-[Link de exemplo -Uol.com.br](https://www.oul.com.br)
+     + Link de exemplo -Uol.com.br(https://www.oul.com.br)
